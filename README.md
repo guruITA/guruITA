@@ -5,6 +5,20 @@
 
 - 🔭 I’m currently on my internship at [Domits](https://github.com/domits1/Domits)
 
+- 🌱 I’m currently learning robotics through self-study
+
+- 👯I’m looking to collaborate on meaningful, impact-driven projects
+
+- 🤝I’m looking for help with feedback, code improvements, and ideas that expand my knowledge
+
+- 👨‍💻 All of my projects are available at [https://guruita.github.io/](https://guruita.github.io/) **Still in progress**
+
+- 💬 Ask me about what I’m working on behind the scenes
+
+- 📫 How to reach me: via LinkedIn or Instagram
+
+- 📄 I'm studying at Amsterdam University of Applied Sciences
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gurpreet-singh2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gurpreet-singh2002/" height="30" width="40" /></a>
