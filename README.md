@@ -7,23 +7,19 @@
 
 - 🔭 I’m currently on my internship at [Domits](https://github.com/domits1/Domits)
 
-- 🌱 I’m currently learning robotics through self-study **da**
+- 🌱 I’m currently learning robotics through self-study 
 
-- 👯I’m looking to collaborate on meaningful, impact-driven projects [test](test)
+- 👯I’m looking to collaborate on meaningful, impact-driven projects
 
-- 🤝I’m looking for help with feedback, code improvements, and ideas that expand my knowledge [test](asd)
+- 🤝I’m looking for help with feedback, code improvements, and ideas that expand my knowledge
 
 - 👨‍💻 All of my projects are available at [https://guruita.github.io/](https://guruita.github.io/)
 
-- 📝 I regularly write articles on [d](d)
+- 💬 Ask me about what I’m working on behind the scenes
 
-- 💬 Ask me about what I’m working on behind the scenes **das**
+- 📫 How to reach me: via LinkedIn or Instagram 
 
-- 📫 How to reach me: via LinkedIn or Instagram **singhgurpreet14082002@gmail.com**
-
-- 📄 I'm studying at Amsterdam University of Applied Sciences [e](e)
-
-- ⚡ Fun fact **s**
+- 📄 I'm studying at Amsterdam University of Applied Sciences
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
