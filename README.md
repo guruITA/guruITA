@@ -13,8 +13,6 @@
 
 - 🤝I’m looking for help with feedback, code improvements, and ideas that expand my knowledge
 
-- 👨‍💻 All of my projects are available at [https://guruita.github.io/](https://guruita.github.io/)
-
 - 💬 Ask me about what I’m working on behind the scenes
 
 - 📫 How to reach me: via LinkedIn or Instagram 
