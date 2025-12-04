@@ -13,9 +13,9 @@
 
 - 💬 Ask me about what I’m working on behind the scenes
 
-- 📫 How to reach me: via LinkedIn or Instagram 
+- 📫 How to reach me: via [LinkedIn](https://www.linkedin.com/in/gurpreet-singh2002/) or [Instagram](https://www.instagram.com/gur_ita/)
 
-- 📄 I'm studying at Amsterdam University of Applied Sciences
+- 📄 I'm studying at [Amsterdam University of Applied Sciences](https://www.hva.nl/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
