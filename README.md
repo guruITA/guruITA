@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guruita&label=Profile%20views&color=0e75b6&style=flat" alt="guruita" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guruita" alt="guruita" /></a> </p>
-
 - 🔭 I’m currently on my internship at [Domits](https://github.com/domits1/Domits)
 
 - 🌱 I’m currently learning robotics through self-study 
