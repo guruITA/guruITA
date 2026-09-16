@@ -28,7 +28,7 @@
 - 📄 I'm studying at [Amsterdam University of Applied Sciences](https://www.hva.nl/)
 
 <h3 align="center">
-Connect with me thru:
+Connect with me:
 </h3>
 
 <p align="center">
