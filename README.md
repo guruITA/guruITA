@@ -1,5 +1,13 @@
 <p align="center">
   <img src="./assets/header.svg" />
+</p>
+
+<p align="center">
+  Fourth-year Software Engineering student at the <a href="https://www.hva.nl/">Amsterdam University of Applied Sciences</a>.<br>
+  Focused on full-stack development, learning every day and turning ideas into better solutions.
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guruita/guruita/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guruita/guruita/output/github-contribution-grid-snake.svg" />
@@ -7,29 +15,13 @@
   </picture>
 </p>
 
-<h1 align="center">Hi 👋, I'm Gurpreet Singh</h1>
-<h3 align="center">On a journey to become a better developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guruita&label=Profile%20views&color=0e75b6&style=flat" alt="guruita" /> </p>
-
-- 🔭 I’m currently on my internship at [Domits](https://github.com/domits1/Domits)
-
-- 🌱 I’m currently learning robotics through self-study
-
-- 👯I’m looking to collaborate on meaningful, impact-driven projects
-
-- 🤝I’m looking for help with feedback, code improvements, and ideas that expand my knowledge
-
-- 💬 Ask me about what I’m working on behind the scenes
-
-- 📫 How to reach me: via [LinkedIn](https://www.linkedin.com/in/gurpreet-singh2002/)
-  or [Instagram](https://www.instagram.com/gur_ita/)
-
-- 📄 I'm studying at [Amsterdam University of Applied Sciences](https://www.hva.nl/)
-
 <h3 align="center">
 Connect with me:
 </h3>
+
+<p align="center">
+  Always open to connecting, sharing ideas, receiving feedback, and learning from other developers.
+</p>
 
 <p align="center">
   <a href="[https://www.linkedin.com/in/JOUW-LINKEDIN/](https://linkedin.com/in/https://www.linkedin.com/in/gurpreet-singh2002/)">
