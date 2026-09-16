@@ -31,7 +31,7 @@ jobs:
 
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=codeberg-dark
 
       # Push the generated SVG files to the output branch
       - name: Push snake animation to output branch
