@@ -2,6 +2,10 @@
   <img src="./assets/header.svg" />
 </p>
 
+<h3 align="center">
+About me
+</h3>
+
 <p align="center">
   Fourth-year Software Engineering student at the <a href="https://www.hva.nl/">Amsterdam University of Applied Sciences</a>.<br>
   Focused on full-stack development, learning every day and turning ideas into better solutions.
