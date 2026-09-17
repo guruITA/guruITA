@@ -32,6 +32,10 @@ Stats
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.zohan.tech/api/top-langs/?username=guruITA&layout=compact&hide_border=true&theme=github_dark">
     <img alt="Top languages" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=guruITA&layout=compact&hide_border=true">
   </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=guruita&hide_border=true&background=0D1117&ring=5DA9FF&fire=5DA9FF&currStreakLabel=5DA9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=guruita&hide_border=true&background=0D1117&ring=5DA9FF&fire=5DA9FF&currStreakLabel=5DA9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E">
+  </picture>
 </p>
 
 <h3 align="center">
