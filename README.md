@@ -143,7 +143,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:Singhgurpreet14082002@gmail.com">
+  <a href="mailto:hello@guruita.dev">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
